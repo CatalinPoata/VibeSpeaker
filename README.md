@@ -58,7 +58,7 @@ python inference.py --audio_file sample.wav
 
 ## ✍️ Authors
 - [Vișan Ionuț](https://github.com/visan-ionut)
-- [Poață Cătălin-Andrei](https://github.com/CatalinPoata)
+- [Poață Andrei-Cătălin](https://github.com/CatalinPoata)
 - [Vulpe Ștefan](https://github.com/stefanvulpe-dev)
 
 🎓 Developed as part of the **Artificial Intelligence Master, UNSTP Bucharest**.

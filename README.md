@@ -21,19 +21,12 @@ VibeSpeaker is a **multimodal Speech Emotion Recognition (SER) system** that int
 ## 📂 Project Structure
 ```
 VibeSpeaker/
-├── data/                 # Dataset and preprocessing scripts
-├── models/               # Pre-trained and fine-tuned models
 ├── src/
-│   ├── audio_processing.py
-│   ├── text_processing.py
-│   ├── spectrogram_cnn.py
-│   ├── fusion_model.py
-│   ├── train.py
-│   ├── inference.py
-│   └── evaluation.py
-├── results/              # Experimental results and logs
-├── README.md
-└── requirements.txt
+│   ├── dataset.py
+│   ├── model.py
+│   ├── demo.py
+└── README.md
+
 ```
 
 ## 🔧 Installation & Usage
